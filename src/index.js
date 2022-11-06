@@ -76,3 +76,4 @@ const sakeDetails = {
 console.log(typeof sakeDetails.name);
 
 console.log(hoge);
+console.log(fuga);

@@ -244,6 +244,7 @@ var sakeDetails = {
 };
 console.log(_typeof(sakeDetails.name));
 console.log(hoge);
+console.log(fuga);
 },{"./styles.css":"src/styles.css"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
