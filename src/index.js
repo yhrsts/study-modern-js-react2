@@ -70,7 +70,9 @@ const sakeDetails = {
   name: "而今",
   size: "四合瓶",
   type: "にごり生",
-  date: "2022/11"
+  date: "2022/11",
 };
 
 console.log(typeof sakeDetails.name);
+
+console.log(hoge);
